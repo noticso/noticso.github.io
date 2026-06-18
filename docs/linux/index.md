@@ -19,5 +19,5 @@ Linux is one of the most important foundations for cybersecurity because many se
 
 ## Current Notes
 
-* [Linux Commands Reference](../resources/linux-commands.md)
+- [Linux Commands Reference](../commands.md)
 
