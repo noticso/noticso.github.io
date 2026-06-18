@@ -1,6 +1,6 @@
 # About This Site
 
-This site is a personal cybersecurity learning journal maintained by **Giovanni D'Agostino**.
+This site is a personal cybersecurity learning journal maintained by **noticso**.
 
 The purpose is to document practical progress, improve technical writing in English, and build a public portfolio of authorized learning activities.
 
