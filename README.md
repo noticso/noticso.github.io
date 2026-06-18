@@ -19,7 +19,7 @@ Then open `http://127.0.0.1:8000` in your browser.
 1. Edit a Markdown file inside `docs/`.
 2. Save it.
 3. Check the local preview.
-4. Commit and push to the `main` branch.
+4. Commit and push to the `master` branch.
 5. GitHub Actions deploys the website automatically.
 
 ## Important
