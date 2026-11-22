@@ -30,5 +30,4 @@ Small Python scripts and exercises focused on automation, file handling, network
 
 Status: In progress.
 
-- [commentScan](https://github.com/noticso/web-scraper): crawls a website and flags HTML comments that leak credentials, API keys or developer notes.
 - [network-scanner](https://github.com/noticso/network-scanner): packet-crafting experiments with Scapy, the first step towards my own network scanner.
