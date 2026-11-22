@@ -27,8 +27,8 @@ Everything published on this website is intended for learning, practice, and aut
 * [ ] Networking basics
 * [ ] Dual boot setup: Windows 11 and Linux
 * [ ] Cybersecurity homelab
-* [ ] TryHackMe learning paths
-* [ ] Web security fundamentals
+* [x] TryHackMe learning paths
+* [x] Web security fundamentals
 * [ ] Python scripting for cybersecurity
 
 ## Featured Section

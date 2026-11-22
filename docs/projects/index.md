@@ -28,4 +28,7 @@ A collection of beginner-friendly Linux and cybersecurity walkthroughs based on 
 
 Small Python scripts and exercises focused on automation, file handling, networking, and security-related tasks.
 
-Status: Planned.
+Status: In progress.
+
+- [commentScan](https://github.com/noticso/web-scraper): crawls a website and flags HTML comments that leak credentials, API keys or developer notes.
+- [network-scanner](https://github.com/noticso/network-scanner): packet-crafting experiments with Scapy, the first step towards my own network scanner.
